@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&display=swap');
+body{
+    height: 100%;
+    width: 100%;
+    font-family: Alkatra, sans-serif;
+    background: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.button{
+    padding: 20px;
+}

@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row{
+    margin: 12px 0;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+}
+.input{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 23px;
+    padding: 10px 0px;
+}
+.bg-color{
+    color: aqua;
+}
